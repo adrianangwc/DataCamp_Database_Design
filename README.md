@@ -7,7 +7,7 @@ Chapter 2. Database Schemas and Normalization
 
 Chapter 3. Database Views
 
-Chapter 4. Selecting
+Chapter 4. Database Management
 
 
 ## Personal Notes:
